@@ -1,3 +1,6 @@
+* {
+  font-family: 'Balsamiq Sans', cursive;
+}
 
 header {
     background-color: darkblue;
@@ -6,12 +9,14 @@ header {
     font-weight: bold;
     text-align: center;
     padding: 50px;
+
 }
 h1 {
     color: black;
     font-size: 40px;
     margin: 0;
     padding: 20px;
+    text-align: center;
 }
 body {
     background-color: lightblue;
@@ -19,18 +24,39 @@ body {
     font-size: 20px;
     color: white;
 
+
 }
 .puppy {
- border: 10px solid black;
- padding: 20px
+ border: 8px solid black;
  margin: 20px;
+ border-radius: 50%;
 }
+
+.polaroid {
+  width: 35%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin:auto;
+}
+
+#germans {
+  width: 100%;
+
+}
+
+.container {
+  text-align: center;
+  padding: 2px;
+  display: block;
+  color: black;
+
+}
+
 
 blockquote {
     font-size: 18px;
     font-style: italic;
     color: darkgrey;
-
 }
 footer {
     background-colour: grey;
