@@ -1,0 +1,55 @@
+
+body {
+  background: linear-gradient(#c1ebf5,#057d9c);
+  font-family: 'Abolition Regular';
+  color: white;
+  text-align: center;
+  margin: 0;
+}
+
+header {
+   font-size: 60px;
+   margin: 30px;
+   text-shadow: 0 2px 2px #000;
+}
+
+h1 {
+  font-size: 50px;
+  text-shadow: 0 2px 2px #000;
+  margin: 20px;
+  padding-bottom: 30px;
+}
+
+li {
+   list-style: none;
+   font-size: 20px;
+}
+
+.puppy {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  box-shadow:0 0 20px 10px rgba(0,0,0,1);
+  border-radius: 10%;
+  width: 400px;
+  height: 400px;
+}
+
+.germans {
+  box-shadow: 0 0 20px 10px rgba(0,0,0,1);
+  width: 60%;
+  height: 60%;
+}
+
+.fact {
+  padding: 20px ;
+  font-style: italic;
+  font-size: 30px;
+    
+}
+
+ footer {
+  border-top: 2px white dotted;
+  font-size: 20px;
+  font-style: oblique;
+   
+}
